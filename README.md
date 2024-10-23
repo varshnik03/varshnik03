@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey I'm Varshni!
+#### A software engineering student & a curious designer ✨
+#### Check out my website [here](https://varshnik.netlify.app)!
 
 <!--
 **varshnik03/varshnik03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
